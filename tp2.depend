@@ -1,0 +1,1502 @@
+# depslib dependency file v1.0
+1551644056 source:d:\cours\tg\sujetstp\tp2\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+
+1551643974 source:d:\cours\tg\sujetstp\tp2\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1551643975 d:\cours\tg\sujetstp\tp2\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1551643974 source:d:\cours\tg\sujetstp\tp2\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"graphe.h"
+
+1551643974 d:\cours\tg\sujetstp\tp2\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+
+1552852131 source:c:\users\wang david\desktop\tp2\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"graphe.h"
+
+1552840218 c:\users\wang david\desktop\tp2\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+
+1552845142 c:\users\wang david\desktop\tp2\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1552852580 source:c:\users\wang david\desktop\tp2\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+
+1552852073 source:c:\users\wang david\desktop\tp2\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1552852132 source:c:\users\wang david\desktop\tp2_version_finale\tp2_version_finale\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"graphe.h"
+
+1552840220 c:\users\wang david\desktop\tp2_version_finale\tp2_version_finale\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+
+1552845144 c:\users\wang david\desktop\tp2_version_finale\tp2_version_finale\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1552852074 source:c:\users\wang david\desktop\tp2_version_finale\tp2_version_finale\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1552853072 source:c:\users\wang david\desktop\tp2_version_finale\tp2_version_finale\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+
+1555342299 source:c:\users\wang david\documents\tp2_version_finale\tp2_version_finale\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"graphe.h"
+
+1555332669 c:\users\wang david\documents\tp2_version_finale\tp2_version_finale\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+
+1555341835 c:\users\wang david\documents\tp2_version_finale\tp2_version_finale\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555331464 source:c:\users\wang david\documents\tp2_version_finale\tp2_version_finale\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+
+1555341825 source:c:\users\wang david\documents\tp2_version_finale\tp2_version_finale\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555342458 source:c:\users\wang david\documents\tp2_version_finale\tp2_version_finale\tp2\arete.cpp
+	"arete.h"
+
+1555342293 c:\users\wang david\documents\tp2_version_finale\tp2_version_finale\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555345017 source:d:\emma ece\ing2\informatique\cours s2\version 2 projet\tp2_version_finale\tp2_version_finale\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+
+1555345376 d:\emma ece\ing2\informatique\cours s2\version 2 projet\tp2_version_finale\tp2_version_finale\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+
+1555341836 d:\emma ece\ing2\informatique\cours s2\version 2 projet\tp2_version_finale\tp2_version_finale\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555343680 d:\emma ece\ing2\informatique\cours s2\version 2 projet\tp2_version_finale\tp2_version_finale\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555345350 source:d:\emma ece\ing2\informatique\cours s2\version 2 projet\tp2_version_finale\tp2_version_finale\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+
+1555341826 source:d:\emma ece\ing2\informatique\cours s2\version 2 projet\tp2_version_finale\tp2_version_finale\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555343680 source:d:\emma ece\ing2\informatique\cours s2\version 2 projet\tp2_version_finale\tp2_version_finale\tp2\arete.cpp
+	"arete.h"
+
+1555344283 d:\emma ece\ing2\informatique\cours s2\version 2 projet\tp2_version_finale\tp2_version_finale\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555344736 source:d:\emma ece\ing2\informatique\cours s2\version 2 projet\tp2_version_finale\tp2_version_finale\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555406078 source:c:\users\wang david\desktop\tp2\arete.cpp
+	"arete.h"
+
+1555409263 c:\users\wang david\desktop\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555489697 c:\users\wang david\desktop\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555518101 source:c:\users\wang david\desktop\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+
+1555351626 c:\users\wang david\desktop\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555511919 c:\users\wang david\desktop\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+
+1555514465 source:c:\users\wang david\desktop\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+
+1555354717 source:c:\users\wang david\desktop\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555351626 source:c:\users\wang david\desktop\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555406080 source:c:\users\cleme\desktop\piscine_bloqué (2)\tp2\arete.cpp
+	"arete.h"
+
+1555409264 c:\users\cleme\desktop\piscine_bloqué (2)\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555489698 c:\users\cleme\desktop\piscine_bloqué (2)\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555527598 source:c:\users\cleme\desktop\piscine_bloqué (2)\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+
+1555511920 c:\users\cleme\desktop\piscine_bloqué (2)\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+
+1555351628 c:\users\cleme\desktop\piscine_bloqué (2)\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555354718 source:c:\users\cleme\desktop\piscine_bloqué (2)\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555351628 source:c:\users\cleme\desktop\piscine_bloqué (2)\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555527456 source:c:\users\cleme\desktop\piscine_bloqué (2)\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+
+1555406080 source:d:\emma ece\ing2\informatique\cours s2\version 7\piscine_bloqué (2)\tp2\arete.cpp
+	"arete.h"
+
+1555409264 d:\emma ece\ing2\informatique\cours s2\version 7\piscine_bloqué (2)\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555489698 d:\emma ece\ing2\informatique\cours s2\version 7\piscine_bloqué (2)\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555534369 source:d:\emma ece\ing2\informatique\cours s2\version 7\piscine_bloqué (2)\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+
+1555533566 d:\emma ece\ing2\informatique\cours s2\version 7\piscine_bloqué (2)\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555530564 d:\emma ece\ing2\informatique\cours s2\version 7\piscine_bloqué (2)\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+
+1555532621 source:d:\emma ece\ing2\informatique\cours s2\version 7\piscine_bloqué (2)\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+
+1555354718 source:d:\emma ece\ing2\informatique\cours s2\version 7\piscine_bloqué (2)\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555533566 source:d:\emma ece\ing2\informatique\cours s2\version 7\piscine_bloqué (2)\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555577273 source:c:\users\cleme\desktop\avec menu\piscine_bloqué (2)\tp2\arete.cpp
+	"arete.h"
+
+1555577235 c:\users\cleme\desktop\avec menu\piscine_bloqué (2)\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555577235 c:\users\cleme\desktop\avec menu\piscine_bloqué (2)\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555577235 source:c:\users\cleme\desktop\avec menu\piscine_bloqué (2)\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+
+1555533568 c:\users\cleme\desktop\avec menu\piscine_bloqué (2)\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555577235 c:\users\cleme\desktop\avec menu\piscine_bloqué (2)\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+
+1555576709 source:c:\users\cleme\desktop\avec menu\piscine_bloqué (2)\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+
+1555577235 source:c:\users\cleme\desktop\avec menu\piscine_bloqué (2)\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555533568 source:c:\users\cleme\desktop\avec menu\piscine_bloqué (2)\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555577713 source:c:\users\wang david\desktop\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\arete.cpp
+	"arete.h"
+
+1555577713 c:\users\wang david\desktop\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555577713 c:\users\wang david\desktop\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555586895 source:c:\users\wang david\desktop\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+
+1555577713 c:\users\wang david\desktop\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555585065 c:\users\wang david\desktop\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+
+1555585773 source:c:\users\wang david\desktop\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+
+1555577713 source:c:\users\wang david\desktop\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555577713 source:c:\users\wang david\desktop\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555577714 source:c:\users\cleme\desktop\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\arete.cpp
+	"arete.h"
+
+1555577714 c:\users\cleme\desktop\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555577714 c:\users\cleme\desktop\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555607087 source:c:\users\cleme\desktop\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+
+1555577714 c:\users\cleme\desktop\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555598822 c:\users\cleme\desktop\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+
+1555606882 source:c:\users\cleme\desktop\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+
+1555577714 source:c:\users\cleme\desktop\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555577714 source:c:\users\cleme\desktop\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555607593 source:c:\users\wang david\desktop\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\arete.cpp
+	"arete.h"
+
+1555607593 c:\users\wang david\desktop\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555607593 c:\users\wang david\desktop\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555611823 source:c:\users\wang david\desktop\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+
+1555607593 c:\users\wang david\desktop\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555610283 c:\users\wang david\desktop\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+
+1555621435 source:c:\users\wang david\desktop\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+
+1555607593 source:c:\users\wang david\desktop\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555607593 source:c:\users\wang david\desktop\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555688937 source:d:\emma ece\ing2\informatique\cours s2\version 9\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\arete.cpp
+	"arete.h"
+
+1555688909 d:\emma ece\ing2\informatique\cours s2\version 9\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555688896 d:\emma ece\ing2\informatique\cours s2\version 9\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555686771 source:d:\emma ece\ing2\informatique\cours s2\version 9\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555690745 source:d:\emma ece\ing2\informatique\cours s2\version 9\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555690372 d:\emma ece\ing2\informatique\cours s2\version 9\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555690758 source:d:\emma ece\ing2\informatique\cours s2\version 9\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+
+1555690745 d:\emma ece\ing2\informatique\cours s2\version 9\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+
+1555690745 source:d:\emma ece\ing2\informatique\cours s2\version 9\pisicne 18h\piscine_jeudi_12h_30\piscine 9h45\avec menu\piscine_bloqué (2)\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+
+1555696164 source:c:\users\wang david\desktop\piscine vendredi 19h\tp2\arete.cpp
+	"arete.h"
+
+1555696164 c:\users\wang david\desktop\piscine vendredi 19h\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555696459 c:\users\wang david\desktop\piscine vendredi 19h\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555696164 source:c:\users\wang david\desktop\piscine vendredi 19h\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555696164 source:c:\users\wang david\desktop\piscine vendredi 19h\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555696164 c:\users\wang david\desktop\piscine vendredi 19h\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555696492 source:c:\users\wang david\desktop\piscine vendredi 19h\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+
+1555696374 c:\users\wang david\desktop\piscine vendredi 19h\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+
+1555696342 source:c:\users\wang david\desktop\piscine vendredi 19h\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+
+1555696166 source:c:\users\cleme\desktop\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.cpp
+	"arete.h"
+
+1555696166 c:\users\cleme\desktop\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555696460 c:\users\cleme\desktop\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555749903 source:c:\users\cleme\desktop\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+	<algorithm>
+
+1555696166 c:\users\cleme\desktop\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555698025 c:\users\cleme\desktop\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+	"pareto.h"
+
+1555749903 source:c:\users\cleme\desktop\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+
+1555696166 source:c:\users\cleme\desktop\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555696166 source:c:\users\cleme\desktop\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555749903 c:\users\cleme\desktop\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\pareto.h
+	<iostream>
+
+1555749903 source:c:\users\cleme\desktop\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\pareto.cpp
+	"pareto.h"
+
+1555696166 source:d:\emma ece\ing2\informatique\cours s2\version 11\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.cpp
+	"arete.h"
+
+1555696166 d:\emma ece\ing2\informatique\cours s2\version 11\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555696460 d:\emma ece\ing2\informatique\cours s2\version 11\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555696166 source:d:\emma ece\ing2\informatique\cours s2\version 11\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555696166 source:d:\emma ece\ing2\informatique\cours s2\version 11\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555696166 d:\emma ece\ing2\informatique\cours s2\version 11\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555763694 source:c:\users\wang david\desktop\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.cpp
+	"arete.h"
+
+1555755363 c:\users\wang david\desktop\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555755826 c:\users\wang david\desktop\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555758326 source:c:\users\wang david\desktop\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\pareto.cpp
+	"pareto.h"
+
+1555758323 c:\users\wang david\desktop\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\pareto.h
+	<iostream>
+
+1555752310 source:c:\users\wang david\desktop\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555752310 source:c:\users\wang david\desktop\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555752310 c:\users\wang david\desktop\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555779973 source:c:\users\wang david\desktop\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+	<algorithm>
+
+1555779329 c:\users\wang david\desktop\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+	"pareto.h"
+
+1555779717 source:c:\users\wang david\desktop\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+
+1555763696 source:d:\emma ece\ing2\informatique\cours s2\version 12 (optimisée)\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.cpp
+	"arete.h"
+
+1555755364 d:\emma ece\ing2\informatique\cours s2\version 12 (optimisée)\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555755828 d:\emma ece\ing2\informatique\cours s2\version 12 (optimisée)\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555780132 source:d:\emma ece\ing2\informatique\cours s2\version 12 (optimisée)\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+	<algorithm>
+
+1555752312 d:\emma ece\ing2\informatique\cours s2\version 12 (optimisée)\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555779330 d:\emma ece\ing2\informatique\cours s2\version 12 (optimisée)\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+	"pareto.h"
+
+1555758324 d:\emma ece\ing2\informatique\cours s2\version 12 (optimisée)\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\pareto.h
+	<iostream>
+
+1555780110 source:d:\emma ece\ing2\informatique\cours s2\version 12 (optimisée)\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+
+1555758328 source:d:\emma ece\ing2\informatique\cours s2\version 12 (optimisée)\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\pareto.cpp
+	"pareto.h"
+
+1555752312 source:d:\emma ece\ing2\informatique\cours s2\version 12 (optimisée)\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555752312 source:d:\emma ece\ing2\informatique\cours s2\version 12 (optimisée)\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555787886 source:c:\users\wang david\desktop\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.cpp
+	"arete.h"
+
+1555787886 c:\users\wang david\desktop\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555788241 c:\users\wang david\desktop\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555854868 source:c:\users\wang david\desktop\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+	"console.h"
+
+1555852503 c:\users\wang david\desktop\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+	"pareto.h"
+
+1555788254 c:\users\wang david\desktop\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555787886 c:\users\wang david\desktop\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\pareto.h
+	<iostream>
+
+1555788261 source:c:\users\wang david\desktop\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\pareto.cpp
+	"pareto.h"
+
+1555788238 source:c:\users\wang david\desktop\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555788251 source:c:\users\wang david\desktop\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555866249 source:c:\users\wang david\desktop\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+	<algorithm>
+	"console.h"
+
+1555791622 source:c:\users\wang david\desktop\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1555791636 c:\users\wang david\desktop\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\console.h
+	<iostream>
+
+1555787888 source:c:\users\cleme\desktop\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.cpp
+	"arete.h"
+
+1555787888 c:\users\cleme\desktop\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555788242 c:\users\cleme\desktop\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555875396 source:c:\users\cleme\desktop\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+	<algorithm>
+	"console.h"
+
+1555788256 c:\users\cleme\desktop\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555875249 c:\users\cleme\desktop\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+	"pareto.h"
+
+1555872629 c:\users\cleme\desktop\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\pareto.h
+	<iostream>
+
+1555871782 c:\users\cleme\desktop\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\console.h
+	<iostream>
+
+1555876847 source:c:\users\cleme\desktop\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+	"console.h"
+
+1555872629 source:c:\users\cleme\desktop\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\pareto.cpp
+	"pareto.h"
+
+1555788240 source:c:\users\cleme\desktop\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555788252 source:c:\users\cleme\desktop\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555871781 source:c:\users\cleme\desktop\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1555877280 source:c:\users\wang david\desktop\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.cpp
+	"arete.h"
+
+1555877280 c:\users\wang david\desktop\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555877281 c:\users\wang david\desktop\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555877280 source:c:\users\wang david\desktop\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1555877280 c:\users\wang david\desktop\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\console.h
+	<iostream>
+
+1555877280 source:c:\users\wang david\desktop\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+	<algorithm>
+	"console.h"
+
+1555877281 c:\users\wang david\desktop\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555877280 c:\users\wang david\desktop\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+	"pareto.h"
+
+1555877281 c:\users\wang david\desktop\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\pareto.h
+	<iostream>
+
+1555877280 source:c:\users\wang david\desktop\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+	"console.h"
+
+1555877281 source:c:\users\wang david\desktop\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\pareto.cpp
+	"pareto.h"
+
+1555877281 source:c:\users\wang david\desktop\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555877281 source:c:\users\wang david\desktop\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555877282 source:c:\users\cleme\desktop\piscine_version_finale_21h\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.cpp
+	"arete.h"
+
+1555877282 c:\users\cleme\desktop\piscine_version_finale_21h\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555877282 c:\users\cleme\desktop\piscine_version_finale_21h\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555877282 source:c:\users\cleme\desktop\piscine_version_finale_21h\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1555877282 c:\users\cleme\desktop\piscine_version_finale_21h\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\console.h
+	<iostream>
+
+1555886862 source:c:\users\cleme\desktop\piscine_version_finale_21h\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+	<algorithm>
+	"console.h"
+
+1555886701 c:\users\cleme\desktop\piscine_version_finale_21h\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555881757 c:\users\cleme\desktop\piscine_version_finale_21h\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+	"pareto.h"
+
+1555877282 c:\users\cleme\desktop\piscine_version_finale_21h\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\pareto.h
+	<iostream>
+
+1555878670 source:c:\users\cleme\desktop\piscine_version_finale_21h\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+	"console.h"
+
+1555877282 source:c:\users\cleme\desktop\piscine_version_finale_21h\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\pareto.cpp
+	"pareto.h"
+
+1555877282 source:c:\users\cleme\desktop\piscine_version_finale_21h\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555877282 source:c:\users\cleme\desktop\piscine_version_finale_21h\piscine_dimanche_21h\pisicne_dimanche_18h\piscine_optimisée 20h\pisicne version samedi david\projet_piscine_vendredi_19h\piscine vendredi 19h\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555877282 source:c:\users\cleme\desktop\projet_piscine_wang_janot_cormier\tp2\arete.cpp
+	"arete.h"
+
+1555877282 c:\users\cleme\desktop\projet_piscine_wang_janot_cormier\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1555877282 c:\users\cleme\desktop\projet_piscine_wang_janot_cormier\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555877282 source:c:\users\cleme\desktop\projet_piscine_wang_janot_cormier\tp2\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1555877282 c:\users\cleme\desktop\projet_piscine_wang_janot_cormier\tp2\console.h
+	<iostream>
+
+1555878670 source:c:\users\cleme\desktop\projet_piscine_wang_janot_cormier\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+	"console.h"
+
+1555881757 c:\users\cleme\desktop\projet_piscine_wang_janot_cormier\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+	"pareto.h"
+
+1555886701 c:\users\cleme\desktop\projet_piscine_wang_janot_cormier\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1555877282 c:\users\cleme\desktop\projet_piscine_wang_janot_cormier\tp2\pareto.h
+	<iostream>
+
+1555877282 source:c:\users\cleme\desktop\projet_piscine_wang_janot_cormier\tp2\pareto.cpp
+	"pareto.h"
+
+1555877282 source:c:\users\cleme\desktop\projet_piscine_wang_janot_cormier\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555877282 source:c:\users\cleme\desktop\projet_piscine_wang_janot_cormier\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1555887247 source:c:\users\cleme\desktop\projet_piscine_wang_janot_cormier\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+	<algorithm>
+	"console.h"
+
+1557063273 source:d:\emma ece\ing2\informatique\cours s2\projet_piscine_final\projet_piscine_wang_janot_cormier\tp2\arete.cpp
+	"arete.h"
+
+1557063617 d:\emma ece\ing2\informatique\cours s2\projet_piscine_final\projet_piscine_wang_janot_cormier\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1557063460 d:\emma ece\ing2\informatique\cours s2\projet_piscine_final\projet_piscine_wang_janot_cormier\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1557064831 source:d:\emma ece\ing2\informatique\cours s2\projet_piscine_final\projet_piscine_wang_janot_cormier\tp2\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1557063526 d:\emma ece\ing2\informatique\cours s2\projet_piscine_final\projet_piscine_wang_janot_cormier\tp2\console.h
+	<iostream>
+
+1557065320 source:d:\emma ece\ing2\informatique\cours s2\projet_piscine_final\projet_piscine_wang_janot_cormier\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+	<algorithm>
+	"console.h"
+
+1557064740 d:\emma ece\ing2\informatique\cours s2\projet_piscine_final\projet_piscine_wang_janot_cormier\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1557063613 d:\emma ece\ing2\informatique\cours s2\projet_piscine_final\projet_piscine_wang_janot_cormier\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+	"pareto.h"
+
+1557063435 d:\emma ece\ing2\informatique\cours s2\projet_piscine_final\projet_piscine_wang_janot_cormier\tp2\pareto.h
+	<iostream>
+
+1556818524 source:d:\emma ece\ing2\informatique\cours s2\projet_piscine_final\projet_piscine_wang_janot_cormier\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+	"console.h"
+
+1557064871 source:d:\emma ece\ing2\informatique\cours s2\projet_piscine_final\projet_piscine_wang_janot_cormier\tp2\pareto.cpp
+	"pareto.h"
+
+1555877282 source:d:\emma ece\ing2\informatique\cours s2\projet_piscine_final\projet_piscine_wang_janot_cormier\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1557064812 source:d:\emma ece\ing2\informatique\cours s2\projet_piscine_final\projet_piscine_wang_janot_cormier\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1557063274 source:c:\users\cleme\desktop\p\projet_piscine_wang_janot_cormier\tp2\arete.cpp
+	"arete.h"
+
+1557063618 c:\users\cleme\desktop\p\projet_piscine_wang_janot_cormier\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1557063462 c:\users\cleme\desktop\p\projet_piscine_wang_janot_cormier\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1557064832 source:c:\users\cleme\desktop\p\projet_piscine_wang_janot_cormier\tp2\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1557063528 c:\users\cleme\desktop\p\projet_piscine_wang_janot_cormier\tp2\console.h
+	<iostream>
+
+1557065322 source:c:\users\cleme\desktop\p\projet_piscine_wang_janot_cormier\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+	<algorithm>
+	"console.h"
+
+1557064742 c:\users\cleme\desktop\p\projet_piscine_wang_janot_cormier\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1557063614 c:\users\cleme\desktop\p\projet_piscine_wang_janot_cormier\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+	"pareto.h"
+
+1557063436 c:\users\cleme\desktop\p\projet_piscine_wang_janot_cormier\tp2\pareto.h
+	<iostream>
+
+1556818526 source:c:\users\cleme\desktop\p\projet_piscine_wang_janot_cormier\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+	"console.h"
+
+1557064872 source:c:\users\cleme\desktop\p\projet_piscine_wang_janot_cormier\tp2\pareto.cpp
+	"pareto.h"
+
+1555877282 source:c:\users\cleme\desktop\p\projet_piscine_wang_janot_cormier\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1557064814 source:c:\users\cleme\desktop\p\projet_piscine_wang_janot_cormier\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1557844992 source:c:\users\wang david\desktop\projet_piscine_wang_janot_cormier (1)\projet_piscine_wang_janot_cormier\tp2\arete.cpp
+	"arete.h"
+
+1557844992 c:\users\wang david\desktop\projet_piscine_wang_janot_cormier (1)\projet_piscine_wang_janot_cormier\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1557844992 c:\users\wang david\desktop\projet_piscine_wang_janot_cormier (1)\projet_piscine_wang_janot_cormier\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1557844992 source:c:\users\wang david\desktop\projet_piscine_wang_janot_cormier (1)\projet_piscine_wang_janot_cormier\tp2\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1557844992 c:\users\wang david\desktop\projet_piscine_wang_janot_cormier (1)\projet_piscine_wang_janot_cormier\tp2\console.h
+	<iostream>
+
+1557844992 source:c:\users\wang david\desktop\projet_piscine_wang_janot_cormier (1)\projet_piscine_wang_janot_cormier\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+	<algorithm>
+	"console.h"
+
+1557844992 c:\users\wang david\desktop\projet_piscine_wang_janot_cormier (1)\projet_piscine_wang_janot_cormier\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1557844992 c:\users\wang david\desktop\projet_piscine_wang_janot_cormier (1)\projet_piscine_wang_janot_cormier\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+	"pareto.h"
+
+1557844992 c:\users\wang david\desktop\projet_piscine_wang_janot_cormier (1)\projet_piscine_wang_janot_cormier\tp2\pareto.h
+	<iostream>
+
+1557844992 source:c:\users\wang david\desktop\projet_piscine_wang_janot_cormier (1)\projet_piscine_wang_janot_cormier\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+	"console.h"
+
+1557844992 source:c:\users\wang david\desktop\projet_piscine_wang_janot_cormier (1)\projet_piscine_wang_janot_cormier\tp2\pareto.cpp
+	"pareto.h"
+
+1557844992 source:c:\users\wang david\desktop\projet_piscine_wang_janot_cormier (1)\projet_piscine_wang_janot_cormier\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1557844992 source:c:\users\wang david\desktop\projet_piscine_wang_janot_cormier (1)\projet_piscine_wang_janot_cormier\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
+1557844992 source:c:\users\wang david\desktop\piscine_version_soutenance\projet_piscine_wang_janot_cormier\tp2\arete.cpp
+	"arete.h"
+
+1557844992 c:\users\wang david\desktop\piscine_version_soutenance\projet_piscine_wang_janot_cormier\tp2\arete.h
+	<string>
+	<iostream>
+	"sommet.h"
+
+1557844992 c:\users\wang david\desktop\piscine_version_soutenance\projet_piscine_wang_janot_cormier\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1557844992 source:c:\users\wang david\desktop\piscine_version_soutenance\projet_piscine_wang_janot_cormier\tp2\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1557844992 c:\users\wang david\desktop\piscine_version_soutenance\projet_piscine_wang_janot_cormier\tp2\console.h
+	<iostream>
+
+1557844992 source:c:\users\wang david\desktop\piscine_version_soutenance\projet_piscine_wang_janot_cormier\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"svgfile.h"
+	"graphe.h"
+	<sstream>
+	<algorithm>
+	"console.h"
+
+1557844992 c:\users\wang david\desktop\piscine_version_soutenance\projet_piscine_wang_janot_cormier\tp2\svgfile.h
+	<string>
+	<fstream>
+	<set>
+
+1557844992 c:\users\wang david\desktop\piscine_version_soutenance\projet_piscine_wang_janot_cormier\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+	"svgfile.h"
+	<algorithm>
+	"pareto.h"
+
+1557844992 c:\users\wang david\desktop\piscine_version_soutenance\projet_piscine_wang_janot_cormier\tp2\pareto.h
+	<iostream>
+
+1557844992 source:c:\users\wang david\desktop\piscine_version_soutenance\projet_piscine_wang_janot_cormier\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+	<string>
+	<algorithm>
+	"console.h"
+
+1557844992 source:c:\users\wang david\desktop\piscine_version_soutenance\projet_piscine_wang_janot_cormier\tp2\pareto.cpp
+	"pareto.h"
+
+1557844992 source:c:\users\wang david\desktop\piscine_version_soutenance\projet_piscine_wang_janot_cormier\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1557844992 source:c:\users\wang david\desktop\piscine_version_soutenance\projet_piscine_wang_janot_cormier\tp2\svgfile.cpp
+	"svgfile.h"
+	<iostream>
+	<sstream>
+
